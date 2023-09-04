@@ -1,3 +1,17 @@
+/* CUSTOM PROPS */
+:root {
+
+}
+
+:root[data-theme="light"] {
+
+}
+
+:root[data-theme="dark"] {
+
+}
+
+
 /* GLOBAL */
 body {
   display: flex;
