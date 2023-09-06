@@ -1,7 +1,7 @@
-const THEME_TOGGLER_BUTTON = '.theme-toggler';
+/* const THEME_TOGGLER_BUTTON = '.theme-toggler'; */
 
 function init () {
-  const elThemeTogglerButton = document.querySelector(THEME_TOGGLER_BUTTON);
+  /* const elThemeTogglerButton = document.querySelector(THEME_TOGGLER_BUTTON);
 
 
   // DOM handlers
@@ -20,7 +20,7 @@ function init () {
   // Event listeners
   if (elThemeTogglerButton) {
     elThemeTogglerButton.addEventListener('click', switchTheme);
-  }
+  } */
 }
 
 document.addEventListener('DOMContentLoaded', init);
